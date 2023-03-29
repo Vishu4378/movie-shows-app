@@ -1,0 +1,478 @@
+[
+  {
+    "id": 5676,
+    "url": "https://www.tvmaze.com/shows/5676/superted",
+    "name": "SuperTed",
+    "type": "Animation",
+    "language": "English",
+    "genres": ["Family", "Fantasy"],
+    "status": "Ended",
+    "runtime": 8,
+    "averageRuntime": 8,
+    "premiered": "1983-10-04",
+    "ended": "1986-02-20",
+    "officialSite": null,
+    "schedule": {
+      "time": "",
+      "days": ["Thursday"]
+    },
+    "rating": {
+      "average": null
+    },
+    "weight": 44,
+    "network": {
+      "id": 12,
+      "name": "BBC One",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "officialSite": "https://www.bbc.co.uk/bbcone"
+    },
+    "webChannel": null,
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": null,
+      "thetvdb": 83703,
+      "imdb": "tt0085096"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/22/56892.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/22/56892.jpg"
+    },
+    "summary": "<p><b>SuperTed</b> was a teddy bear found to be defective in the toy factory where he was made, and then disposed of into an old storeroom. A Spotty man found him there and brought him to life with his \"cosmic dust\". He was later taken to Mother Nature and given magical powers that enabled him to fight evil. This evil invariably takes the form of Texas Pete (an evil cowboy, the antagonist of the series) and his gang; Bulk (an overweight, bumbling fool) and Skeleton (an undead, outrageously camp, cowardly skeleton with pink slippers).</p>",
+    "updated": 1576026052,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/5676"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/341344"
+      }
+    }
+  },
+  {
+    "id": 66249,
+    "url": "https://www.tvmaze.com/shows/66249/superchef-grudge-match",
+    "name": "Superchef Grudge Match",
+    "type": "Reality",
+    "language": "English",
+    "genres": ["Food"],
+    "status": "Running",
+    "runtime": 60,
+    "averageRuntime": 60,
+    "premiered": "2023-02-05",
+    "ended": null,
+    "officialSite": "https://www.foodnetwork.com/shows/superchef-grudge-match/",
+    "schedule": {
+      "time": "21:00",
+      "days": ["Tuesday"]
+    },
+    "rating": {
+      "average": null
+    },
+    "weight": 79,
+    "network": {
+      "id": 81,
+      "name": "Food Network",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "officialSite": null
+    },
+    "webChannel": null,
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": null,
+      "thetvdb": null,
+      "imdb": null
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/444/1110363.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/444/1110363.jpg"
+    },
+    "summary": "<p>Some long-standing personal and professional feuds are settled in one-round, one-dish winner-takes-all heavyweight battles. In each episode, Darnell stages two different battles between chefs who have beefs with each other to finally bury the hatchet and win $10,000 cash, a prized knife from the losing chef and lifelong bragging rights over their food foe. From food competition rivalries and business partner squabbles to mentor vs. protégé grudges, sparks fly in and out of the kitchen. </p>",
+    "updated": 1679987199,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/66249"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/2494565"
+      },
+      "nextepisode": {
+        "href": "https://api.tvmaze.com/episodes/2512500"
+      }
+    }
+  },
+  {
+    "id": 53161,
+    "url": "https://www.tvmaze.com/shows/53161/stan-lees-superhero-kindergarten",
+    "name": "Stan Lee's Superhero Kindergarten",
+    "type": "Animation",
+    "language": "English",
+    "genres": ["Comedy", "Action", "Science-Fiction"],
+    "status": "Running",
+    "runtime": null,
+    "averageRuntime": null,
+    "premiered": "2021-04-23",
+    "ended": null,
+    "officialSite": "https://www.superherokindergarten.com",
+    "schedule": {
+      "time": "",
+      "days": ["Friday"]
+    },
+    "rating": {
+      "average": null
+    },
+    "weight": 39,
+    "network": null,
+    "webChannel": {
+      "id": 451,
+      "name": "Kartoon Channel!",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "officialSite": null
+    },
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": null,
+      "thetvdb": 401389,
+      "imdb": "tt10408914"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/294/736336.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/294/736336.jpg"
+    },
+    "summary": "<p>Captain Fantastic was the world's greatest superhero… until one epic battle when he collided with his arch-nemesis and an explosion of super-energizing particles rained down on six unsuspecting babies leaving him POWERLESS. Five years later, those babies have developed superpowers and need help learning to control them! Arnold Schwarzenegger stars as a superhero-turned-super-teacher in Kartoon Channel!'s new animated series, Stan Lee's Superhero Kindergarten!</p>",
+    "updated": 1635256838,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/53161"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/2202392"
+      }
+    }
+  },
+  {
+    "id": 4619,
+    "url": "https://www.tvmaze.com/shows/4619/the-supervet-noel-fitzpatrick",
+    "name": "The Supervet: Noel Fitzpatrick",
+    "type": "Documentary",
+    "language": "English",
+    "genres": ["Nature", "Medical"],
+    "status": "Running",
+    "runtime": 60,
+    "averageRuntime": 60,
+    "premiered": "2014-05-07",
+    "ended": null,
+    "officialSite": "http://www.channel4.com/programmes/the-supervet",
+    "schedule": {
+      "time": "20:00",
+      "days": ["Thursday"]
+    },
+    "rating": {
+      "average": 7.7
+    },
+    "weight": 47,
+    "network": {
+      "id": 45,
+      "name": "Channel 4",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "officialSite": "https://www.channel4.com/"
+    },
+    "webChannel": null,
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": 42173,
+      "thetvdb": 281564,
+      "imdb": "tt3713822"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/321/804443.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/321/804443.jpg"
+    },
+    "summary": "<p>Noel Fitzpatrick runs one of the most advanced veterinary practices in Britain and is known as the Bionic Vet. Some of the hardest-to-cure pets from across the country receive cutting-edge treatments and surgery here, from a team of over a hundred surgeons, nurses, ward attendants and physiotherapists. This series follows Noel and his team as they use their pioneering techniques to attempt to cure pets that might otherwise be beyond saving.</p>",
+    "updated": 1677293663,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/4619"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/2493355"
+      }
+    }
+  },
+  {
+    "id": 5947,
+    "url": "https://www.tvmaze.com/shows/5947/who-wants-to-be-a-superhero",
+    "name": "Who Wants to Be a Superhero?",
+    "type": "Reality",
+    "language": "English",
+    "genres": ["Science-Fiction"],
+    "status": "Ended",
+    "runtime": 60,
+    "averageRuntime": 60,
+    "premiered": "2006-07-27",
+    "ended": "2007-09-06",
+    "officialSite": null,
+    "schedule": {
+      "time": "",
+      "days": ["Thursday"]
+    },
+    "rating": {
+      "average": null
+    },
+    "weight": 49,
+    "network": {
+      "id": 16,
+      "name": "Syfy",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "officialSite": null
+    },
+    "webChannel": null,
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": 7769,
+      "thetvdb": 79399,
+      "imdb": "tt0377288"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/23/58620.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/23/58620.jpg"
+    },
+    "summary": "<p>Expect more thrills, bigger challenges and even more episodes this season as once again SCI FI Channel partners with legendary comic book creator Stan Lee's (Spider-Man, Hulk, The Fantastic Four, X-Men) POW! Entertainment, Inc., and Bruce Nash's Nash Entertainment (Meet My Folks, For Love or Money, Who Wants to Marry My Dad?) to find the next great American superhero.</p>",
+    "updated": 1662941594,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/5947"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/355189"
+      }
+    }
+  },
+  {
+    "id": 4615,
+    "url": "https://www.tvmaze.com/shows/4615/supervet-in-the-field",
+    "name": "Supervet in the Field",
+    "type": "Documentary",
+    "language": "English",
+    "genres": [],
+    "status": "Ended",
+    "runtime": 60,
+    "averageRuntime": 60,
+    "premiered": "2015-08-12",
+    "ended": "2015-08-19",
+    "officialSite": "https://www.thesupervet.com",
+    "schedule": {
+      "time": "20:00",
+      "days": ["Wednesday"]
+    },
+    "rating": {
+      "average": null
+    },
+    "weight": 39,
+    "network": {
+      "id": 45,
+      "name": "Channel 4",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "officialSite": "https://www.channel4.com/"
+    },
+    "webChannel": null,
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": 50160,
+      "thetvdb": 299436,
+      "imdb": null
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/176/440052.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/176/440052.jpg"
+    },
+    "summary": "<p>Noel Fitzpatrick leaves his surgery to stage festivals for different dog lovers.</p>",
+    "updated": 1622490340,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/4615"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/296575"
+      }
+    }
+  },
+  {
+    "id": 30811,
+    "url": "https://www.tvmaze.com/shows/30811/animal-rescue-live-supervet-special",
+    "name": "Animal Rescue Live: Supervet Special",
+    "type": "Reality",
+    "language": "English",
+    "genres": [],
+    "status": "Ended",
+    "runtime": 60,
+    "averageRuntime": 60,
+    "premiered": "2017-08-07",
+    "ended": "2019-08-16",
+    "officialSite": "http://www.channel4.com/programmes/animal-rescue-live-supervet-special",
+    "schedule": {
+      "time": "20:00",
+      "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+    },
+    "rating": {
+      "average": null
+    },
+    "weight": 34,
+    "network": {
+      "id": 45,
+      "name": "Channel 4",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "officialSite": "https://www.channel4.com/"
+    },
+    "webChannel": null,
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": null,
+      "thetvdb": 333200,
+      "imdb": "tt7216944"
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/122/306104.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/122/306104.jpg"
+    },
+    "summary": "<p>Steve Jones, Kate Quilton and Professor Noel Fitzpatrick launch a new, week-long animal rescue show live from the Newcastle Dog and Cat Shelter. Their mission is to clear the shelter and find permanent homes for the animals who currently live there, while also rehousing pets from other shelters up and down the country.</p>",
+    "updated": 1599414125,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/30811"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/1690516"
+      }
+    }
+  },
+  {
+    "id": 63813,
+    "url": "https://www.tvmaze.com/shows/63813/superhero-tri",
+    "name": "Superhero Tri",
+    "type": "Sports",
+    "language": "English",
+    "genres": [],
+    "status": "Running",
+    "runtime": 45,
+    "averageRuntime": 45,
+    "premiered": "2022-09-04",
+    "ended": null,
+    "officialSite": null,
+    "schedule": {
+      "time": "08:45",
+      "days": ["Sunday"]
+    },
+    "rating": {
+      "average": null
+    },
+    "weight": 1,
+    "network": {
+      "id": 45,
+      "name": "Channel 4",
+      "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+      },
+      "officialSite": "https://www.channel4.com/"
+    },
+    "webChannel": null,
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": null,
+      "thetvdb": null,
+      "imdb": null
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/420/1052351.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/420/1052351.jpg"
+    },
+    "summary": "<p>Clare Balding presents highlights of Great Britain's only mass participation triathlon for disabled participants, held at Dorney Lake in Windsor.</p>",
+    "updated": 1662354781,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/63813"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/2381727"
+      }
+    }
+  },
+  {
+    "id": 53944,
+    "url": "https://www.tvmaze.com/shows/53944/rock-m-sakura-sexy-superhero-sickening-spectacular",
+    "name": "Rock M. Sakura Sexy Superhero Sickening Spectacular",
+    "type": "Talk Show",
+    "language": "English",
+    "genres": ["Comedy"],
+    "status": "Running",
+    "runtime": null,
+    "averageRuntime": 10,
+    "premiered": "2021-03-03",
+    "ended": null,
+    "officialSite": "https://www.wowpresentsplus.com/rock-m-sakura-sexy-superhero-sickening-spectacular",
+    "schedule": {
+      "time": "",
+      "days": ["Wednesday"]
+    },
+    "rating": {
+      "average": null
+    },
+    "weight": 6,
+    "network": null,
+    "webChannel": {
+      "id": 195,
+      "name": "WOW Presents Plus",
+      "country": null,
+      "officialSite": "http://www.wowpresentsplus.com"
+    },
+    "dvdCountry": null,
+    "externals": {
+      "tvrage": null,
+      "thetvdb": null,
+      "imdb": null
+    },
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/418/1046299.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/418/1046299.jpg"
+    },
+    "summary": "<p>Rock M. Sakura comes from a family of superheroes who fight crime every day. But Rock is a late bloomer and has yet to come into her powers. Set in San Francisco, this mockumentary series follows Rock on her journey to discovering her superpowers.</p>",
+    "updated": 1660245685,
+    "_links": {
+      "self": {
+        "href": "https://api.tvmaze.com/shows/53944"
+      },
+      "previousepisode": {
+        "href": "https://api.tvmaze.com/episodes/2064279"
+      }
+    }
+  }
+]
